@@ -27,7 +27,7 @@ Installation
 Start by [installing composer](https://getcomposer.org/doc/01-basic-usage.md#installation).
 Next do:
 
-    $ composer require Prhl2375/php-discogs-api
+    $ composer require prhl2375/php-discogs-api
 
 Requirements
 ------------
