@@ -1,5 +1,5 @@
 {
-    "name": "calliostro/php-discogs-api",
+    "name": "prhl2375/php-discogs-api",
     "description": "The Discogs API makes it easy for developers to communicate with the Discogs platform",
     "type": "library",
     "keywords": ["discogs", "api"],
@@ -22,6 +22,10 @@
         {
             "name": "calliostro",
             "email": "calliostro@gmail.com"
+        },
+        {
+            "name": "Prhl2375",
+            "email": "dahippie25@gmail.com"
         }
     ],
     "autoload": {

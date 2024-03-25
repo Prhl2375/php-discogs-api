@@ -27,7 +27,7 @@ Installation
 Start by [installing composer](https://getcomposer.org/doc/01-basic-usage.md#installation).
 Next do:
 
-    $ composer require calliostro/php-discogs-api
+    $ composer require Prhl2375/php-discogs-api
 
 Requirements
 ------------
