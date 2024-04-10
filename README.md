@@ -52,7 +52,7 @@ prevent getting errors or banned:
 <?php
 
 $client = Discogs\ClientFactory::factory();
-$client->getHttpClient()->getEmitter()->attach(new Discogs\Subscriber\ThrottleSubscriber());
+$client->getHttpClient()->getEmitter()->attach(new \Discogs\Subscriber\ThrottleSubscriber());
 
 ```
 
